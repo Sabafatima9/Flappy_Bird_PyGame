@@ -32,7 +32,6 @@ A modern reimagining of the classic **Flappy Bird** arcade game — built from s
 
 </div>
 
-> 📸 *Drop your screenshots into the `screenshots/` folder matching the filenames above.*
 
 ---
 
@@ -111,7 +110,6 @@ python main.py
 ```
 flappy-bird-pygame/
 ├── assets/               # Game assets
-│   ├── astronaut.png     # (reserved)
 │   ├── background.png    # Scrolling background
 │   ├── coin.png          # Collectible coin sprite
 │   ├── flap1.png         # Bird frame 1
