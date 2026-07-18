@@ -116,7 +116,7 @@ flappy-bird-pygame/
 │   ├── flap2.png         # Bird frame 2
 │   ├── game_over.wav     # Game over SFX
 │   └── music.mp3         # Background music
-├── screenshots/          # 📸 Add your screenshots here
+├── screenshots/          
 │   ├── start_menu.png
 │   ├── gameplay.png
 │   ├── game_over.png
